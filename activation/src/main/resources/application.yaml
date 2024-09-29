@@ -1,19 +1,6 @@
 server:
   port: 8085
-#
-#spring:
-#  application:
-#    name: tmfsac-transaction
-#  datasource:
-#    url: jdbc:postgresql://pg-fd78062-gautam-db88.f.aivencloud.com:27747/tmf640_poswls?sslmode=require
-#    username: avnadmin
-#    password: AVNS_GVrfCPJv-yx1DSPusWb
-#    driver-class-name: org.postgresql.Driver
-#  datasource:
-#    url: jdbc:mysql://localhost:3306/activationdb
-#    username: root
-#    password: 1234
-#    driver-class-name: com.mysql.cj.jdbc.Driver
+
   h2:
     console:
       enabled: true
